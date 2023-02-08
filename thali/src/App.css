@@ -1,0 +1,41 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  
+}
+
+.main{
+ background-image:url('https://ak0.picdn.net/shutterstock/videos/21428350/thumb/1.jpg' );
+  border:4px solid yellow
+  
+    
+}
+
+.header{
+  background-image:url('https://static.vecteezy.com/system/resources/previews/000/261/099/original/vector-abstract-colorful-watercolor-decorative-background.jpg');
+  color:red
+  
+  
+}
+.show{
+  color:black;
+  font-size:30px;
+ 
+}
+
+.result{
+    color:black
+  
+  
+}
+.footer{
+  
+  border:4px solid lime;
+  padding:10px;
+}
+.show2{
+  background-color: palevioletred;
+  border-radius: 400px;
+  padding: 20px;
+  
+}
