@@ -1,4 +1,4 @@
-# Thali-app
+# Thali-app.
 make order from hotel
 In this app we can order food from restaurant. 
 With the help of this project it is easy to order foods. 
